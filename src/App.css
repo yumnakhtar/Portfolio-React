@@ -5,6 +5,12 @@ h1, h3 {
   transform: translate(-50%, -50%);
 }
 
+h3 {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 .App {
 position: relative;
