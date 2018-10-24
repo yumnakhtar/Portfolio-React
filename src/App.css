@@ -1,18 +1,18 @@
+.App {
+  position: relative;
+}
+  
 h1, h3 {
   position: absolute;
-  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+h1 {
+  top: 30%;
 }
 
 h3 {
-  position: absolute;
-  top: 55%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.App {
-position: relative;
+  top: 35%;
 }
 
